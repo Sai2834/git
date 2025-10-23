@@ -1,4 +1,4 @@
-console.log("welcome to git learning");
+console.log("welcome to git learning part");
 for(var i=0;i<5;i++){
-    console.log("code");
+    console.log("coding practice");
 }
